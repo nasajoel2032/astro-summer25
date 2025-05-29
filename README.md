@@ -10,7 +10,7 @@ This project focuses on orbital mechanics within a two body system using python.
 - Plotting through matplotlib
 - Jupyter notebook for coding development
 ## References
-[RK4](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
+[Runge-Kutta Methods](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
 ## Updates and Logs
 this stays empty for now 
 ## License
