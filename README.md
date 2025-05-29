@@ -12,6 +12,6 @@ This project focuses on orbital mechanics within a two body system using python.
 ## References
 [Runge-Kutta Methods](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
 ## Updates and Logs
-this stays empty for now 
+2025-05-29: Researched Runge-Kutta, keplerian orbits, and started coding the ode function
 ## License
 [MIT License](LICENSE)
