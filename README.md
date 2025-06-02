@@ -11,6 +11,7 @@ This project focuses on orbital mechanics within a two body system using python.
 - Jupyter notebook for coding development
 ## References
 [Keplerian Orbits](https://en.wikipedia.org/wiki/Kepler_orbit)
+
 [Runge-Kutta Methods](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
 ## Updates and Logs
 2025-05-29: Researched Runge-Kutta, keplerian orbits, and started coding an ode function for rk4 method
