@@ -15,12 +15,19 @@ This project focuses on orbital mechanics within a two body system using python.
 [Runge-Kutta Methods](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
 
 [Kepler's Equation](https://en.wikipedia.org/wiki/Kepler%27s_equation)
+
+[Matplotlib Animation](https://matplotlib.org/stable/api/animation_api.html)
 ## Updates and Logs
 2025-05-29: Researched Runge-Kutta, keplerian orbits, and started coding an ode function for rk4 method
 
 2025-06-02: Decided to begin with keplerian orbits and once skills and knowledge develop further, search complex and more accurate methods such as RK4.
-             Renamed and uploaded new code folder for the different methods
+            Renamed and uploaded new code folder for the different methods
 
 2025-06-04: Worked on the star-planet two body system (where the orbit is assumed to be in the same plane) in which the semi-major axis, eccentricity, and mass of the star at the foci point can be manipulated and plotted to find results. Orbital path is now visible. Issues with running and seeing animation.  
+
+2025-06-05: Completed first draft of the two body keplerian star-planet system. Verified accuracy by inputting parameters equal to those present in our solar system such as the star mass, semi-major axis, and eccentricity and comparing results with known physical values. When code is ran through jupyter notebooks, the orbital animation is clear and presented with a text showing time passed throughout the orbit.
+
+## Results 
+![2D Keplerian Two Body Orbit](kepler2Dplot.png)
 ## License
 [MIT License](LICENSE)
