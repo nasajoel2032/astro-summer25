@@ -29,5 +29,6 @@ This project focuses on orbital mechanics within a two body system using python.
 
 ## Results 
 ![2D Keplerian Two Body Orbit](plots/kepler2Dplot.png)
+![2D Keplerian Two Body Orbit(1)](plots/kepler2Dplot(1).png)
 ## License
 [MIT License](LICENSE)
