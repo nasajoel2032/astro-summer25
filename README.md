@@ -28,6 +28,6 @@ This project focuses on orbital mechanics within a two body system using python.
 2025-06-05: Completed first draft of the two body keplerian star-planet system. Verified accuracy by inputting parameters equal to those present in our solar system such as the star mass, semi-major axis, and eccentricity and comparing results with known physical values. When code is ran through jupyter notebooks, the orbital animation is clear and presented with a text showing time passed throughout the orbit.
 
 ## Results 
-![2D Keplerian Two Body Orbit](kepler2Dplot.png)
+![2D Keplerian Two Body Orbit](plots/kepler2Dplot.png)
 ## License
 [MIT License](LICENSE)
