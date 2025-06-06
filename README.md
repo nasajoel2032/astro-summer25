@@ -32,10 +32,11 @@ This project focuses on orbital mechanics within a two body system using python.
 ![2D Keplerian Two Body Orbit](plots/kepler2Dplot.png)
 ### 2D Earth-Sun Simulation
 ![2D Keplerian Two Body Orbit(1)](plots/kepler2Dplot(1).png)
-### 2D Earth-Sun Simulation Data Small Sample (see data folder for whole data)
+### 2D Earth-Sun Simulation Data Small Sample (see data folder for whole data with all variables)
 |Time Passed (days)| Orbital Radius (m) | Orbital Velocity (m/s) | Kinetic Energy (J)      | Potential Energy (J)        |
 |------------------|----------|------------------|---------|-----------|
-| 0.000000           | 1.471017e11  | 30040.796064         | 2.693812e33 | -5.387623e33  |
-| 0.036525           | 1.471017e11  | 30040.796012         | 2.693812e33 | -5.387623e33  |
+| 0.0000           | 1.47e11  | 30040.80         | 2.69e33 | -5.39e33  |
+| 0.3656           | 1.47e11  | 30040.79         | 2.69e33 | -5.39e33  |
+| 0.7312           | 1.47e11  | 30040.78         | 2.69e33 | -5.39e33  |
 ## License
 [MIT License](LICENSE)
