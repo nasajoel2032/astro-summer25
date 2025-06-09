@@ -17,6 +17,14 @@ This project focuses on orbital mechanics within a two body system using python.
 [Kepler's Equation](https://en.wikipedia.org/wiki/Kepler%27s_equation)
 
 [Matplotlib Animation](https://matplotlib.org/stable/api/animation_api.html)
+
+[Conservation of Energy in a Binary Stellar System](https://astrophytheory.com/2018/08/06/astrophysics-series-derivation-of-the-total-energy-of-a-binary-orbit/)
+
+[Binary Star Systems](https://farside.ph.utexas.edu/teaching/336k/Newton/node50.html)
+
+[NASA Earth Parameters](https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html)
+
+[Vis-Viva](https://en.wikipedia.org/wiki/Vis-viva_equation)
 ## Updates and Logs
 2025-05-29: Researched Runge-Kutta, keplerian orbits, and started coding an ode function for rk4 method
 
@@ -28,6 +36,8 @@ This project focuses on orbital mechanics within a two body system using python.
 2025-06-05: Completed first draft of the two body keplerian star-planet system. Verified accuracy by inputting parameters equal to those present in our solar system such as the star mass, semi-major axis, and eccentricity and comparing results with known physical values. When code is ran through jupyter notebooks, the orbital animation is clear and presented with a text showing time passed throughout the orbit.
 
 2025-06-06: Revised first final draft of the two body keplerian Earth-Sun System. Used pandas to store results and data in a csv file with 1,000 entries for smooth plotting and data analysis. Briefly derived math used in code to verify correct usage of units in data. Updated repo by adding a data folder where data from future models/simulations will be stored. 
+
+2025-06-08: Began the second model, a keplerian binary stellar system. Researched binary systems, formulas, and concepts. Essentially beginning with the layout of the first model, changing, and adding formulas to account for two bodies of similar mass. 
 
 ## Results 
 ### 2D Keplerian Orbit
