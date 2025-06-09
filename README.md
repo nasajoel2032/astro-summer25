@@ -39,6 +39,8 @@ This project focuses on orbital mechanics within a two body system using python.
 
 2025-06-08: Began the second model, a keplerian binary stellar system. Researched binary systems, formulas, and concepts. Essentially beginning with the layout of the first model, changing, and adding formulas to account for two bodies of similar mass. 
 
+2025-06-09: Completed first draft of a binary stellar system using keplerian methods, representing Alpha Centauri A and Alpha Centauri B with their exact parameters computed into the simulation. Results include: 1,000 entry csv file as seen on the data folder under "binarystar2D.csv", an animated simulation (can be seen through jupyter notebooks), and a still image posted in the results section. Further verification of accuracy is still required.
+
 ## Results 
 ### 2D Keplerian Orbit
 ![2D Keplerian Two Body Orbit](plots/kepler2Dplot.png)
@@ -50,5 +52,7 @@ This project focuses on orbital mechanics within a two body system using python.
 | 0.0000           | 1.47e11  | 30040.80         | 2.69e33 | -5.39e33  |
 | 0.3656           | 1.47e11  | 30040.79         | 2.69e33 | -5.39e33  |
 | 0.7312           | 1.47e11  | 30040.78         | 2.69e33 | -5.39e33  |
+### 2D Alpha Centauri A & B Binary Stellar System
+![2D Keplerian Binary Stellar System](plots/binarystar2D_plot(1).png)
 ## License
 [MIT License](LICENSE)
